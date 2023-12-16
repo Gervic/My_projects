@@ -1,2 +1,2 @@
-# My_projects
+# My projects
  Neste repositórios estão os meus projetos pessoais.
